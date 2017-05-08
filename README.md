@@ -7,7 +7,7 @@
 * Abstract Factory
 * Builder
 * Factory Method
-* Prototype
+* [Prototype](https://github.com/DaniloBarros/DesignPatterns/tree/master/GOF/Prototype)
 * Singleton
 * Multiton
 

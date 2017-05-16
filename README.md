@@ -4,12 +4,13 @@
 ## Patterns
 ### Gang of Four
 #### Creational
-* Abstract Factory
-* Builder
-* Factory Method
+* [Abstract Factory](https://github.com/DaniloBarros/DesignPatterns/tree/master/GOF/Creational/AbstractFactory)
+* [Builder](https://github.com/DaniloBarros/DesignPatterns/tree/master/GOF/Creational/Builder)
+* [Factory Method](https://github.com/DaniloBarros/DesignPatterns/tree/master/GOF/Creational/FactoryMethod)
 * [Prototype](https://github.com/DaniloBarros/DesignPatterns/tree/master/GOF/Creational/Prototype)
 * Singleton
 * Multiton
+* Object Pool
 
 #### Structural
 * Adapter
